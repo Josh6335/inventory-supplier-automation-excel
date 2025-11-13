@@ -45,11 +45,16 @@ It replaces manual tracking with **automated calculations, validations, and an d
 ---
 
 ## 🗂️ Project Structure
-📁 inventory-supplier-automation-excel
- ┣ 📊 Stellar_Inventory_Automation.xlsx
- ┣ 📝 README.md
- ┣ 📘 usage_guide.txt
- ┗ 🖼️ dashboard_preview.png
+
+📁 **inventory-supplier-automation-excel**
+- 📄 `README.md` – Project documentation  
+- 📄 `Stellar Manufacturing Ltd.docx` – Company document  
+- 📊 `Stellar Manufacturing Ltds.xlsx` 
+- 🖼️ `SupplierX preview.png` – Supplier X preview screenshot  
+- 🖼️ `SupplierY preview.png` – Supplier Y preview screenshot  
+- 🖼️ `Homepage Preview.png` – Homepage interface screenshot  
+- 🖼️ `Inventory Preview.png` – Inventory sheet screenshot  
+- 🖼️ `Description preview.png` – Description screenshot
 
  
 ---
